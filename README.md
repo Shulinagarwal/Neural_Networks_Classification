@@ -31,5 +31,5 @@ Linear models often fail when data cannot be separated by a straight line. This 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/neural-network-classification.git](https://github.com/yourusername/neural-network-classification.git)
+   git clone [https://github.com/Shulinagarwal/neural-network-classification.git]
    cd neural-network-classification
